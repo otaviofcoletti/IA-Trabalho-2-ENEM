@@ -63,3 +63,8 @@ Nosso projeto no GitHub está licenciado sob a [Licença MIT](https://opensource
 ## Membros da equipe
 
    [<img src="https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM/blob/main/fotos/otavio.jpg">](https://github.com/otaviofcoletti)
+   [<img src="https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM/blob/main/fotos/adarton.jpg">](https://github.com/adaltonF)
+   [<img src="https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM/blob/main/fotos/garde.jpg">](https://github.com/fernandograde)
+   [<img src="https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM/blob/main/fotos/genzo.jpg">](https://github.com/kenzonobre)
+   [<img src="https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM/blob/main/fotos/sinmber.jpg">](https://github.com/rzimmerdev)
+   [<img src="https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM/blob/main/fotos/vigdor_rodigis.jpg">](https://github.com/victorRS27)
