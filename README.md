@@ -58,3 +58,8 @@ pip install pandas dask gdown
 ## Licença
 
 Nosso projeto no GitHub está licenciado sob a [Licença MIT](https://opensource.org/license/mit/).
+
+
+## Membros da equipe
+
+   [<img src="https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM/blob/main/fotos/otavio.jpg">](https://github.com/otaviofcoletti)
