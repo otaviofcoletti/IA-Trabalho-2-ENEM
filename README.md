@@ -62,9 +62,9 @@ Nosso projeto no GitHub está licenciado sob a [Licença MIT](https://opensource
 
 ## Membros da equipe
 
-   [<img src="https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM/blob/main/fotos/otavio.jpg">](https://github.com/otaviofcoletti)
-   [<img src="https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM/blob/main/fotos/adarton.jpg">](https://github.com/adaltonF)
-   [<img src="https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM/blob/main/fotos/garde.jpg">](https://github.com/fernandograde)
-   [<img src="https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM/blob/main/fotos/genzo.jpg">](https://github.com/kenzonobre)
-   [<img src="https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM/blob/main/fotos/sinmber.jpg">](https://github.com/rzimmerdev)
-   [<img src="https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM/blob/main/fotos/vigdor_rodigis.jpg">](https://github.com/victorRS27)
+## Membros da equipe
+
+| Otávio Ferracioli Coletti | Victor Rodrigues da Silva | Kenzo Yves Yamashita Nobre | Fernando César Lopes Barbosa Filho | Adalton de Sena Almeida Filho | Rafael Zimmer |
+| -------------------------- | ------------------------- | --------------------------- | ---------------------------------- | ------------------------------- | ------------- |
+| ![Otávio Ferracioli Coletti](https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM/blob/main/fotos/otavio.jpg) | ![Victor Rodrigues da Silva](https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM/blob/main/fotos/vigdor_rodigis.jpg) | ![Kenzo Yves Yamashita Nobre](https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM/blob/main/fotos/genzo.jpg) | ![Fernando César Lopes Barbosa Filho](https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM/blob/main/fotos/garde.jpg) | ![Adalton de Sena Almeida Filho](https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM/blob/main/fotos/adarton.jpg) | ![Rafael Zimmer](https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM/blob/main/fotos/sinmber.jpg) |
+
