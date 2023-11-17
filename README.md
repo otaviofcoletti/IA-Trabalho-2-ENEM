@@ -13,7 +13,11 @@ Link para o repositório [aqui](https://github.com/otaviofcoletti/IA-Trabalho-2-
 | Adalton de Sena Almeida Filho      | 12542435 |
 | Rafael Zimmer                      | 12542612 |
 
+
+
 ## Descrição do Projeto
+
+![ENEM](https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM/blob/main/fotos/Resultado-ENEM-termo-cresce_Credito-guia-do-estudante.jpg) 
 
 Este projeto tem como objetivo realizar uma mineração de dados nos [Microdados do ENEM](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados). A proposta é analisar e compreender as áreas em que as notas são mais elevadas e mais baixas, buscando identificar as possíveis dificuldades de estudo enfrentadas pelos participantes do ENEM. Iremos compactar e transformar os dados em CSV, de modo a remover linhas com valores inválidos, colunas com valores insignificantes (código de institutos, ruas, vetores de respostas dos participantes e de gabarito. Devemos também colocar os dados em formato de máquina, transformando para uma codificação aceitável para o formato CSV e que não tenha caratéres inválidos.
 
