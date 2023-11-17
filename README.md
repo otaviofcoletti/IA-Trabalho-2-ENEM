@@ -1,10 +1,23 @@
-# Projeto: Mineração, Análise e Classificação de Concorrentes no ENEM
+# Projeto: Mineração, Análise e Classificação de Concorrentes no ENEM 
 
-## Descrição do Projeto
+**Grupo**:
 
-Este projeto tem como objetivo realizar uma mineração de dados nos Microdados do ENEM. A proposta é analisar e compreender as áreas em que as notas são mais elevadas e mais baixas, buscando identificar as possíveis dificuldades de estudo enfrentadas pelos participantes do ENEM.
+| Nome  | nUSP |
+|------------------------------------|----------|
+| Otávio Ferracioli Coletti - Lider  | 11767796 |
+| Victor Rodrigues da Silva - Vice   | 12566140 |
+| Kenzo Yves Yamashita Nobre         | 5028772  |
+| Fernando César Lopes Barbosa Filho | 10260559 |
+| Adalton de Sena Almeida Filho      | 12542435 |
+| Rafael Zimmer                      | 12542612 |
 
-## Como Funciona
+## Descrição do Projeto e do Problema
+
+Este projeto tem como objetivo realizar uma mineração de dados nos [Microdados do ENEM](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados). A proposta é analisar e compreender as áreas em que as notas são mais elevadas e mais baixas, buscando identificar as possíveis dificuldades de estudo enfrentadas pelos participantes do ENEM. Iremos compactar e transformar os dados em CSV, de modo a remover linhas com valores inválidos, colunas com valores insignificantes (código de institutos, ruas, vetores de respostas dos participantes e de gabarito. Devemos também colocar os dados em formato de máquina, transformando para uma codificação aceitável para o formato CSV e que não tenha caratéres inválidos.
+
+Isso será feito de modo a permitir que realizemos um pré-processamento dos dados no futuro, em formato de dataset. Isso permitirá que implementemos modelos e algoritmos mais complexos que nos permitam formar insights e criar associações entre as features, identificando possibilidades de melhora no sistema de educação e investimento em regiões precárias.
+
+### Como Funciona
 
 O projeto utiliza os Microdados do ENEM como fonte de dados. As análises são conduzidas em um ambiente Python, fazendo uso das bibliotecas pandas, Dask, e gdown para manipulação e análise eficiente dos dados. A mineração de dados destaca padrões e tendências nas notas dos participantes, oferecendo insights sobre as áreas que demandam mais atenção. Para ver a descrição de todos os dados, acesse o [Dicionário dos Microdados](https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM/blob/main/Dicion%C3%A1rio_Microdados_Enem_2021.xlsx).
 
