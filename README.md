@@ -13,11 +13,16 @@ Link para o repositório [aqui](https://github.com/otaviofcoletti/IA-Trabalho-2-
 | Adalton de Sena Almeida Filho      | 12542435 |
 | Rafael Zimmer                      | 12542612 |
 
-## Descrição do Projeto e do Problema
+## Descrição do Projeto
 
 Este projeto tem como objetivo realizar uma mineração de dados nos [Microdados do ENEM](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados). A proposta é analisar e compreender as áreas em que as notas são mais elevadas e mais baixas, buscando identificar as possíveis dificuldades de estudo enfrentadas pelos participantes do ENEM. Iremos compactar e transformar os dados em CSV, de modo a remover linhas com valores inválidos, colunas com valores insignificantes (código de institutos, ruas, vetores de respostas dos participantes e de gabarito. Devemos também colocar os dados em formato de máquina, transformando para uma codificação aceitável para o formato CSV e que não tenha caratéres inválidos.
 
 Isso será feito de modo a permitir que realizemos um pré-processamento dos dados no futuro, em formato de dataset. Isso permitirá que implementemos modelos e algoritmos mais complexos que nos permitam formar insights e criar associações entre as features, identificando possibilidades de melhora no sistema de educação e investimento em regiões precárias.
+Em resumo, iremos **classificar** as regiões do Brasil com a maior quantidade de alunos carentes nas diversas habilidades do ENEM.
+
+## Problema
+
+O problema que iremos resolver é o de identificar em que regiões do Brasil há uma carência de habilidades dos alunos no que é exigido no Exame Nacional do Ensino Médio, verificando quais matérias são as que os alunos tem mais dificuldades. Para essa classificação iremos também explorar a relação de atributos como a renda, escolaridade, cor, genêro, localização, faixa etária entre outros atributos dos participantes. 
 
 ### Como Funciona
 
