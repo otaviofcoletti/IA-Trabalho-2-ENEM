@@ -6,7 +6,12 @@ Este projeto tem como objetivo realizar uma mineração de dados nos Microdados 
 
 ## Como Funciona
 
-O projeto utiliza os Microdados do ENEM como fonte de dados. As análises são conduzidas em um ambiente Python, fazendo uso das bibliotecas pandas, Dask, e gdown para manipulação e análise eficiente dos dados. A mineração de dados destaca padrões e tendências nas notas dos participantes, oferecendo insights sobre as áreas que demandam mais atenção.
+O projeto utiliza os Microdados do ENEM como fonte de dados. As análises são conduzidas em um ambiente Python, fazendo uso das bibliotecas pandas, Dask, e gdown para manipulação e análise eficiente dos dados. A mineração de dados destaca padrões e tendências nas notas dos participantes, oferecendo insights sobre as áreas que demandam mais atenção. Para ver a descrição de todos os dados, acesse o [Dicionário dos Microdados](https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM/blob/main/Dicion%C3%A1rio_Microdados_Enem_2021.xlsx).
+
+![Dicionário](https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM/blob/main/Dicionario.png)
+- Imagem 1. Exemplo de colunas dos dados minerados e processados
+
+
 
 ## Pré-requisitos
 
