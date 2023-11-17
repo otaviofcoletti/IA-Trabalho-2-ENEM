@@ -1,5 +1,7 @@
 # Projeto: Mineração, Análise e Classificação de Concorrentes no ENEM 
 
+Link para o repositório [aqui](https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM).
+
 **Grupo**:
 
 | Nome  | nUSP |
@@ -55,4 +57,4 @@ pip install pandas dask gdown
    
 ## Licença
 
-Este projeto é licenciado sob a [Licença MIT](LICENSE).
+Nosso projeto no GitHub está licenciado sob a [Licença MIT](https://opensource.org/license/mit/).
