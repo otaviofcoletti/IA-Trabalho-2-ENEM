@@ -11,8 +11,6 @@ O projeto utiliza os Microdados do ENEM como fonte de dados. As análises são c
 ![Dicionário](https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM/blob/main/Dicionario.png)
 - Imagem 1. Exemplo de colunas dos dados minerados e processados
 
-
-
 ## Pré-requisitos
 
 Para rodar a primeira etapa (baixar e carregar os dados), usamos a biblioteca Dask como gerenciador de dataframes, e Gdown para baixar os arquivos do Google Drive.
@@ -40,6 +38,8 @@ pip install pandas dask gdown
 
    Fizemos uma pequena análise exploratória, assim como compactamos os dados em um .zip a partir dos dados iniciais, de modo a facilitar uma análise inicial e baixar a partir do repositório no GitHub.
 
+   Para ver os resultados da análise inicial, acesso o notebook [Análise_Exploratório.ipynb](https://github.com/otaviofcoletti/IA-Trabalho-2-ENEM/blob/main/An%C3%A1lise_Explorat%C3%B3ria.ipynb)
+   
 ## Licença
 
 Este projeto é licenciado sob a [Licença MIT](LICENSE).
